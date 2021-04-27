@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{650ABF83-1AB7-444B-9438-0719790610C7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp/MainViewModel.cs">
+    <Files>
+      <File FileName="TestApp/MainPage.xaml.cs" Line="72" Column="1" />
+      <File FileName="TestApp/MainPage.xaml" />
+      <File FileName="TestApp/MainViewModel.cs" Line="62" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestApp" expanded="True">
+            <Node name="TestApp" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MainViewModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C9218974-B728-4490-807F-76FB9CA45DC5" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestApp.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+</Properties>
